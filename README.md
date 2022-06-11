@@ -1,5 +1,14 @@
 Hi 👋 My name is Harshit Parkar
-===============================React Native Developer, UI/UX Desinger--------------------------------------* 🌍  I'm based in India* ✉️  You can contact me at [harshitparkar.connect@gmail.com](mailto:harshitparkar.connect@gmail.com)* 🧠  I'm learning React-Native, Augmented Reality and many diffrent things.* 🤝  I'm open to collaborating on any idea based on mobile app.* ⚡  I love making prototypes, designs, adding aesthetic ..... they call me picasso.
+===============================
+
+React Native Developer, UI/UX Desinger
+--------------------------------------
+
+*   🌍  I'm based in India
+*   ✉️  You can contact me at [harshitparkar.connect@gmail.com](mailto:harshitparkar.connect@gmail.com)
+*   🧠  I'm learning React-Native, Augmented Reality and many diffrent things.
+*   🤝  I'm open to collaborating on any idea based on mobile app.
+*   ⚡  I love making prototypes, designs, adding aesthetic ..... they call me picasso.
 
 ### Skills
 
