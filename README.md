@@ -1,6 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Parkar
+# Hi! I am Harshit Parkar
 
-## React Native Developer, UI/UX Desinger
+## React Native Developer, UI/UX Desinger, Mobile App Freelancer
 
 - 🌍  I'm based in India
 - ✉️  You can contact me at [harshitparkar.connect@gmail.com](mailto:harshitparkar.connect@gmail.com)
